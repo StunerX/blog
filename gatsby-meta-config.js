@@ -2,12 +2,12 @@ module.exports = {
   title: `Cleyton Santos`,
   description: `Blog posted about ...`,
   author: `[Cleyton Santos]`,
-  introduction: `Developer... {}`,
-  siteUrl: `https://gatsby-starter-bee.netlify.com`, // Your blog site url
+  introduction: `👻 Apaixonado por tecnologia em geral, games e música`,
+  siteUrl: `http://www.cleytonsantos.com/`, // Your blog site url
   social: {
     twitter: `istunerx`, // Your Twitter account
     github: `stunerx/`, // Your GitHub account
-    medium: ``, // Your Medium account
+    linkedin: ``, // Your Medium account
     facebook: ``, // Your Facebook account
   },
   icon: `content/assets/felog.png`, // Add your favicon
