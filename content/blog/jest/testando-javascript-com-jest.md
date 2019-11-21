@@ -66,7 +66,7 @@ it('reverseString("Testando usando Jest") deve retornar "tseJ odnasu odnatseT"',
 })
 
 ```
-No arquivo **reversString.test.js** utilizamos a função it(string, func), é uma função global do Jest, o primeiro parâmetro é título do seu teste e o segundo parâmetro é uma função.
+No arquivo **reverseString.test.js** utilizamos a função it(string, func), é uma função global do Jest, o primeiro parâmetro é título do seu teste e o segundo parâmetro é uma função.
 
 Abra o terminal e execute:
 ```
