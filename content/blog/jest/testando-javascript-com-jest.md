@@ -8,7 +8,7 @@ Bom, hoje vamos falar de **testes**, como você garante que aquela função que 
 É ai que entra o [Jest](https://jestjs.io/), segundo o proprio site:
 > O Jest é um delicioso framework de testes em Javascript, com foco na simplicidade
 
-Mas será que isso mesmo?
+Mas será que é isso mesmo?
 
 ## Vamos para instalação
 Para instalar o Jest basta abrir seu terminal e digitar o seguinte comando:
@@ -66,7 +66,7 @@ it('reverseString("Testando usando Jest") deve retornar "tseJ odnasu odnatseT"',
 })
 
 ```
-No arquivo **reversString.test.js** utilizamos a a função it(string, func), é uma fucção global do Jest, o primeiro parâmetro é título do seu teste e o segundo parâmetro é uma função.
+No arquivo **reversString.test.js** utilizamos a função it(string, func), é uma função global do Jest, o primeiro parâmetro é título do seu teste e o segundo parâmetro é uma função.
 
 Abra o terminal e execute:
 ```
